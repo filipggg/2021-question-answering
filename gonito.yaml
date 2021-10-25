@@ -1,5 +1,6 @@
 description: Polish Roberta zero-shot
-labels:
+tags:
   - zero-shot
-  - polish-roberta-large
+  - mt5
+
   
